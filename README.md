@@ -7,7 +7,7 @@ Repositórios testes para armazenagem de resumos apresentados no curso DIO Brade
 - [Documentação GitHub](https://docs.github.com/pt)
 
 
-## 💻Resumos das Aulas 01 e 02
+## 💻Resumos das Aulas
 | Aulas | Resumos | 
 |-------|---------|
 |Java Básico|[Gitbook](https://felipe-aguiar.gitbook.io/dio-java/gitbook)|
